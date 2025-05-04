@@ -1,0 +1,8 @@
+streamlit
+mysql-connector-python
+pyresparser
+pandas
+python-docx
+nltk
+spacy
+Pillow

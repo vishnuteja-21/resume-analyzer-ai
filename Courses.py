@@ -1,0 +1,7 @@
+ds_course = [("Intro to Data Science", "https://example.com")]
+web_course = [("Full Stack Web Dev", "https://example.com")]
+android_course = [("Android for Beginners", "https://example.com")]
+ios_course = [("iOS App Dev", "https://example.com")]
+uiux_course = [("UI/UX Bootcamp", "https://example.com")]
+resume_videos = ["https://youtube.com/example1"]
+interview_videos = ["https://youtube.com/example2"]
